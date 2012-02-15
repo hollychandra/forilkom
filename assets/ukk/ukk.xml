@@ -1,0 +1,7 @@
+<data>
+	<ukk nama="Unit Kegiatan Kejuruan">
+		<uk nama_button="Club-Ink" gambar_button="assets/ukk/img/club-ink.png" file_content="assets/ukk/ClubInk.html"/>
+		<uk nama_button="Ostric" gambar_button="assets/ukk/img/ostric.png" file_content="assets/ukk/ostric.html"/>
+		<uk nama_button="CSFC" gambar_button="assets/ukk/img/csfc.png" file_content="assets/ukk/CSFC.html"/>
+	</ukk>
+</data>

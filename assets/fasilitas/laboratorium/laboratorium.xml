@@ -1,0 +1,25 @@
+<data>
+	<fasilitas nama="Laboratorium">
+		<fas nama_button="Lab Basdat" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/labasdat.html"/>
+		<fas nama_button="Lab Jaringan" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/labjaringan.html"/>
+		<fas nama_button="Lab RE" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/labre.html"/>
+		<fas nama_button="Lab RPL" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/labrpl.html"/>
+		<fas nama_button="Lab Umum" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/labum.html"/>
+		<fas nama_button="Lab Multimedia" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/lamultimedia.html"/>
+		<fas nama_button="Lab Praktikum" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium/laprak.html"/>
+	</fasilitas>
+</data>

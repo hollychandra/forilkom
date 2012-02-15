@@ -1,0 +1,13 @@
+<data>
+	<fasilitas nama="Pendukung">
+		<fas nama_button="Hotspot" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/pendukung/pendukung/hotspot.html"/>
+		<fas nama_button="Kantin" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/pendukung/pendukung/kantin.html"/>
+		<fas nama_button="Mushola" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/pendukung/pendukung/mushola.html"/>
+	</fasilitas>
+</data>

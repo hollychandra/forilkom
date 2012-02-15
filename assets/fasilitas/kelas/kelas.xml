@@ -1,0 +1,7 @@
+<data>
+	<fasilitas nama="Kelas">
+		<fas nama_button="Kelas" 
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/kelas/kelas/kelas.html"/>
+	</fasilitas>
+</data>

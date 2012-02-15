@@ -1,0 +1,22 @@
+<data>
+	<prodi nama="ilkom">
+		<menu judul="Laboratorium" 
+		nama_button="laboratorium"
+		gambar_button="assets/fasilitas/laboratorium.jpeg" 
+		file_content="assets/fasilitas/laboratorium/laboratorium.xml">
+			Pengenalan ilmu komputer UPI
+        </menu>
+		<menu judul="Kelas" 
+		nama_button="kelas" 
+		gambar_button="assets/fasilitas/kelas.jpeg"
+		file_content="assets/fasilitas/kelas/kelas.xml">
+			Pengenalan ilmu komputer UPI
+        </menu>
+		<menu judul="Pendukung" 
+		nama_button="Pendukung"
+		gambar_button="assets/fasilitas/pendukung.jpeg" 
+		file_content="assets/fasilitas/pendukung/pendukung.xml">
+			Pengenalan ilmu komputer UPI
+        </menu>
+	</prodi>
+</data>
