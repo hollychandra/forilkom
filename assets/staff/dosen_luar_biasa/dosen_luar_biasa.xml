@@ -18,5 +18,8 @@
 		<dosen nama_button="Sandi Fajar Rodiyansyah, S.Pd" 
 		gambar_button="assets/staff/dosen_luar_biasa/dosen/kang fajar.png" 
 		file_content="assets/staff/dosen_luar_biasa/dosen/sandi fajar rodiyansyah.html"/>
+		<dosen nama_button="Oktariani Nurul Pratiwi, S.Pd" 
+		gambar_button="assets/staff/dosen_luar_biasa/dosen/dummy2.png" 
+		file_content="assets/staff/dosen_luar_biasa/dosen/teh nurul.html"/>
 	</dosen_luar_biasa>
 </data>
